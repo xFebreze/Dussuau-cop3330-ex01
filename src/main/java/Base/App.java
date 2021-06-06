@@ -31,7 +31,7 @@ public class App {
         System.out.print("What is your name? ");
         String name = input.nextLine();
 
-        //Concat
+        //Concatenation
         String output = ("Hello, " + name + ", nice to meet you!");
 
         //output
